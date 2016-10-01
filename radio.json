@@ -1,0 +1,22 @@
+{
+  "title": "xxx",
+  "description": "xxx",
+  "moreInfo": "https://google.com",
+  "entry" : {
+    "type" : "radio",
+    "instances" : [
+      {
+        "prompt" : "Enter College 1",
+        "placeholder" : "xxxx"
+      },
+      {
+        "prompt" : "xxxx",
+        "placeholder" : "xxxx"
+      },
+      {
+        "prompt" : "xxxx",
+        "placeholder" : "xxxx"
+      }
+    ]
+  }
+}
