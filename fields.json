@@ -1,5 +1,5 @@
 [{
-  "title": "xxx",
+  "title": "Field Example",
   "description": "xxx",
   "moreInfo": "https://google.com",
   "entry" : {
@@ -21,7 +21,7 @@
   }
 },
  {
-  "title": "xxx",
+  "title": "Field Date Example",
   "description": "xxx",
   "moreInfo": "https://google.com",
   "entry" : {
@@ -43,7 +43,7 @@
   }
 },
  {
-  "title": "xxx",
+  "title": "Checkbox Example",
   "description": "xxx",
   "moreInfo": "https://google.com",
   "entry" : {
@@ -65,7 +65,7 @@
   }
 },
  {
-  "title": "xxx",
+  "title": "Radio button example",
   "description": "xxx",
   "moreInfo": "https://google.com",
   "entry" : {
