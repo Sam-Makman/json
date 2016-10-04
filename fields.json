@@ -1,4 +1,4 @@
-{
+[{
   "title": "xxx",
   "description": "xxx",
   "moreInfo": "https://google.com",
@@ -19,4 +19,73 @@
       }
     ]
   }
-}
+},
+ {
+  "title": "xxx",
+  "description": "xxx",
+  "moreInfo": "https://google.com",
+  "entry" : {
+    "type" : "fielddate",
+    "instances" : [
+      {
+        "prompt" : "Enter College 1",
+        "placeholder" : "xxxx"
+      },
+      {
+        "prompt" : "xxxx",
+        "placeholder" : "xxxx"
+      },
+      {
+        "prompt" : "xxxx",
+        "placeholder" : "xxxx"
+      }
+    ]
+  }
+},
+ {
+  "title": "xxx",
+  "description": "xxx",
+  "moreInfo": "https://google.com",
+  "entry" : {
+    "type" : "checkbox",
+    "instances" : [
+      {
+        "prompt" : "Enter College 1",
+        "placeholder" : "xxxx"
+      },
+      {
+        "prompt" : "xxxx",
+        "placeholder" : "xxxx"
+      },
+      {
+        "prompt" : "xxxx",
+        "placeholder" : "xxxx"
+      }
+    ]
+  }
+},
+ {
+  "title": "xxx",
+  "description": "xxx",
+  "moreInfo": "https://google.com",
+  "entry" : {
+    "type" : "radio",
+    "instances" : [
+      {
+        "prompt" : "Enter College 1",
+        "placeholder" : "xxxx"
+      },
+      {
+        "prompt" : "xxxx",
+        "placeholder" : "xxxx"
+      },
+      {
+        "prompt" : "xxxx",
+        "placeholder" : "xxxx"
+      }
+    ]
+  }
+}]
+
+
+
