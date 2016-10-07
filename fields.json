@@ -1,87 +1,87 @@
 [{
   "title": "Field Example",
-  "description": "xxx",
+  "description": "This is an example of the field type checkpoint. It will have a number of text entry fields with prompts and placeholder text.",
   "moreInfo": "https://google.com",
   "entry" : {
     "type" : "field",
     "instances" : [
       {
         "prompt" : "Enter College 1",
-        "placeholder" : "xxxx"
+        "placeholder" : "first choice college"
       },
       {
-        "prompt" : "xxxx",
-        "placeholder" : "xxxx"
+        "prompt" : "Enter College 2",
+        "placeholder" : "second choice college"
       },
       {
-        "prompt" : "xxxx",
-        "placeholder" : "xxxx"
+        "prompt" : "Enter College 3",
+        "placeholder" : "third choice college"
       }
     ]
   }
 },
  {
   "title": "Field Date Example",
-  "description": "xxx",
-  "moreInfo": "https://google.com",
+  "description": "This is an example of the date field type checkpoint. It will have a number of date entry fields with prompts and placeholder text.",
+  "moreInfo": "https://apple.com",
   "entry" : {
     "type" : "fielddate",
     "instances" : [
       {
-        "prompt" : "Enter College 1",
-        "placeholder" : "xxxx"
+        "prompt" : "Enter College 1 Deadline",
+        "placeholder" : "college 1 deadline"
       },
       {
-        "prompt" : "xxxx",
-        "placeholder" : "xxxx"
+        "prompt" : "Enter College 2 Deadline",
+        "placeholder" : "college 2 deadline"
       },
       {
-        "prompt" : "xxxx",
-        "placeholder" : "xxxx"
+        "prompt" : "Enter College 3 Deadline",
+        "placeholder" : "college 3 deadline"
       }
     ]
   }
 },
  {
   "title": "Checkbox Example",
-  "description": "xxx",
-  "moreInfo": "https://google.com",
+  "description": "This is an example of the checkbox type checkpoint. It will have a checkboxes with prompts.",
+  "moreInfo": "https://ebay.com",
   "entry" : {
     "type" : "checkbox",
     "instances" : [
       {
-        "prompt" : "Enter College 1",
-        "placeholder" : "xxxx"
+        "prompt" : "College 1",
+        "placeholder" : "college 1"
       },
       {
-        "prompt" : "xxxx",
-        "placeholder" : "xxxx"
+        "prompt" : "College 2",
+        "placeholder" : "college 2"
       },
       {
-        "prompt" : "xxxx",
-        "placeholder" : "xxxx"
+        "prompt" : "College 3",
+        "placeholder" : "college 3"
       }
     ]
   }
 },
  {
   "title": "Radio button example",
-  "description": "xxx",
-  "moreInfo": "https://google.com",
+  "description": "This is an example of the radio button type checkpoint. It will have a radio buttons with prompts.",
+  "moreInfo": "http://oregongoestocollege.org",
   "entry" : {
     "type" : "radio",
     "instances" : [
       {
-        "prompt" : "Enter College 1",
-        "placeholder" : "xxxx"
+        "prompt" : "College 1",
+        "placeholder" : "college 1"
       },
       {
-        "prompt" : "xxxx",
-        "placeholder" : "xxxx"
+        "prompt" : "College 2",
+        "placeholder" : "college 2"
       },
       {
-        "prompt" : "xxxx",
-        "placeholder" : "xxxx"
+        "prompt" : "College 3",
+        "placeholder" : "college 3"
       }
     ]
   }
