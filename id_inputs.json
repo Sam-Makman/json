@@ -3,19 +3,21 @@
   "description": "This is an example of the field type checkpoint. It will have a number of text entry fields with prompts and placeholder text.",
   "moreInfo": "https://google.com",
   "type" : "field",
-  "id" : "checkpoint_1",
   "instances" : [
     {
       "prompt" : "Enter College 1",
-      "placeholder" : "first choice college"
+      "placeholder" : "first choice college",
+      "id" : "college_1"
     },
     {
       "prompt" : "Enter College 2",
-      "placeholder" : "second choice college"
+      "placeholder" : "second choice college",
+      "id" : "college_2"
     },
     {
       "prompt" : "Enter College 3",
-      "placeholder" : "third choice college"
+      "placeholder" : "third choice college",
+      "id" : "college_3"
     }
   ]
 },
