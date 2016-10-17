@@ -19,68 +19,67 @@
     }
   ]
 },
- {
-  "title": "Field Date Example",
-  "description": "This is an example of the date field type checkpoint. It will have a number of date entry fields with prompts and placeholder text.",
-  "moreInfo": "https://apple.com",
-  "type" : "fielddate",
-  "id" : "checkpoint_2",
-  "instances" : [
-    {
-      "prompt" : "Enter College 1 Deadline",
-      "placeholder" : "college 1 deadline"
-    },
-    {
-      "prompt" : "Enter College 2 Deadline",
-      "placeholder" : "college 2 deadline"
-    },
-    {
-      "prompt" : "Enter College 3 Deadline",
-      "placeholder" : "college 3 deadline"
-    }
-  ]
-}
-},
- {
-  "title": "Checkbox Example",
-  "description": "This is an example of the checkbox type checkpoint. It will have a checkboxes with prompts.",
-  "moreInfo": "https://ebay.com",
-  "id" : "checkpoint_3",
-  "type" : "checkbox",
-  "instances" : [
-    {
-      "prompt" : "College 1",
-      "placeholder" : "college 1"
-    },
-    {
-      "prompt" : "College 2",
-      "placeholder" : "college 2"
-    },
-    {
-      "prompt" : "College 3",
-      "placeholder" : "college 3"
-    }
-  ]
-},
- {
-  "title": "Radio button example",
-  "description": "This is an example of the radio button type checkpoint. It will have a radio buttons with prompts.",
-  "moreInfo": "http://oregongoestocollege.org",
-  "id" : "checkpoint_4",
-  "type" : "radio",
-  "instances" : [
-    {
-      "prompt" : "College 1",
-      "placeholder" : "college 1"
-    },
-    {
-      "prompt" : "College 2",
-      "placeholder" : "college 2"
-    },
-    {
-      "prompt" : "College 3",
-      "placeholder" : "college 3"
-    }
-  ]
-  
-}]
+  {
+    "title": "Field Date Example",
+    "description": "This is an example of the date field type checkpoint. It will have a number of date entry fields with prompts and placeholder text.",
+    "moreInfo": "https://apple.com",
+    "type" : "fielddate",
+    "id" : "checkpoint_2",
+    "instances" : [
+      {
+        "prompt" : "Enter College 1 Deadline",
+        "placeholder" : "college 1 deadline"
+      },
+      {
+        "prompt" : "Enter College 2 Deadline",
+        "placeholder" : "college 2 deadline"
+      },
+      {
+        "prompt" : "Enter College 3 Deadline",
+        "placeholder" : "college 3 deadline"
+      }
+    ]
+  },
+  {
+    "title": "Checkbox Example",
+    "description": "This is an example of the checkbox type checkpoint. It will have a checkboxes with prompts.",
+    "moreInfo": "https://ebay.com",
+    "id" : "checkpoint_3",
+    "type" : "checkbox",
+    "instances" : [
+      {
+        "prompt" : "College 1",
+        "placeholder" : "college 1"
+      },
+      {
+        "prompt" : "College 2",
+        "placeholder" : "college 2"
+      },
+      {
+        "prompt" : "College 3",
+        "placeholder" : "college 3"
+      }
+    ]
+  },
+  {
+    "title": "Radio button example",
+    "description": "This is an example of the radio button type checkpoint. It will have a radio buttons with prompts.",
+    "moreInfo": "http://oregongoestocollege.org",
+    "id" : "checkpoint_4",
+    "type" : "radio",
+    "instances" : [
+      {
+        "prompt" : "College 1",
+        "placeholder" : "college 1"
+      },
+      {
+        "prompt" : "College 2",
+        "placeholder" : "college 2"
+      },
+      {
+        "prompt" : "College 3",
+        "placeholder" : "college 3"
+      }
+    ]
+
+  }]
