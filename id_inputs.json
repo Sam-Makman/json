@@ -7,17 +7,17 @@
     {
       "prompt" : "Enter College 1",
       "placeholder" : "first choice college",
-      "id" : "college_1"
+      "id" : "fieldcollege_1"
     },
     {
       "prompt" : "Enter College 2",
       "placeholder" : "second choice college",
-      "id" : "college_2"
+      "id" : "fieldcollege_2"
     },
     {
       "prompt" : "Enter College 3",
       "placeholder" : "third choice college",
-      "id" : "college_3"
+      "id" : "fieldcollege_3"
     }
   ]
 },
@@ -31,17 +31,17 @@
       {
         "prompt" : "Enter College 1 Deadline",
         "placeholder" : "college 1 deadline",
-      "id" : "college_1"
+      "id" : "fielddatecollege_1"
       },
       {
         "prompt" : "Enter College 2 Deadline",
         "placeholder" : "college 2 deadline",
-      "id" : "college_2"
+      "id" : "fielddatecollege_2"
       },
       {
         "prompt" : "Enter College 3 Deadline",
         "placeholder" : "college 3 deadline",
-      "id" : "college_3"
+      "id" : "fielddatecollege_3"
       }
     ]
   },
@@ -55,17 +55,17 @@
       {
         "prompt" : "College 1",
         "placeholder" : "college 1",
-        "id" : "college_1"
+        "id" : "checkboxcollege_1"
       },
       {
         "prompt" : "College 2",
         "placeholder" : "college 2",
-        "id" : "college_2"
+        "id" : "checkboxcollege_2"
       },
       {
         "prompt" : "College 3",
         "placeholder" : "college 3",
-        "id" : "college_3"
+        "id" : "checkboxcollege_3"
       }
     ]
   },
@@ -79,17 +79,17 @@
       {
         "prompt" : "College 1",
         "placeholder" : "college 1",
-        "id" : "college_1"
+        "id" : "radiocollege_1"
       },
       {
         "prompt" : "College 2",
         "placeholder" : "college 2",
-      "id" : "college_2"
+      "id" : "radiocollege_2"
       },
       {
         "prompt" : "College 3",
         "placeholder" : "college 3",
-        "id" : "college_3"
+        "id" : "radiocollege_3"
       }
     ]
 
